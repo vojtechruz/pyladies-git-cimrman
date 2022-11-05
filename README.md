@@ -1,4 +1,4 @@
-# pyladies-git-cimrman-repooooooozitart
+# pyladies-git-cimrman-repozitar
 Sbírka skvělých citátů Járy Cimrmana
 
 ## Prisipivani
